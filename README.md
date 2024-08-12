@@ -9,7 +9,7 @@ Neste projeto, desenvolvi em HTML e CSS, o Site de uma clínica fictícia chamad
 
 ## Feedback
 
-Me mande sua opinião sobre este sistema neste meio:
+Me mande sua opinião sobre este jogo neste meio:
 
 - [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
